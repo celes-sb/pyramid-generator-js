@@ -1,22 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-
 # Pyramid Generator
+https://celes-sb.github.io/randomBackgroundColor-js/
 
 ## Part of the freeCodeCamp.org Curriculum
 
@@ -44,3 +27,21 @@ By sharing my progress and projects, I aim to:
 3. **Help Others:** Provide insights and resources for others who are also pursuing similar learning paths.
 
 Stay tuned for more projects and updates as I continue to explore the fascinating world of JavaScript and web development!
+
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
