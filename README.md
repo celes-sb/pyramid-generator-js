@@ -1,5 +1,5 @@
 # Pyramid Generator
-https://celes-sb.github.io/randomBackgroundColor-js/
+https://celes-sb.github.io/pyramid-generator-js/
 
 ## Part of the freeCodeCamp.org Curriculum
 
